@@ -1,0 +1,10 @@
+[core]
+	editor = /usr/bin/vim
+[user]
+	name = Casey Haaland
+	email = caseychandlerh@yahoo.com
+[alias]
+  st = status
+  ci = commit
+  br = branch
+  co = checkout

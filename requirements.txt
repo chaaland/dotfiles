@@ -1,0 +1,10 @@
+black
+isort
+matplotlib
+numpy
+pandas
+plotly
+polars
+ruff
+scipy
+streamlit

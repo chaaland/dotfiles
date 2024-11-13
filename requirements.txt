@@ -1,11 +1,15 @@
 black
 isort
 jupyter
+line-profiler
 matplotlib
+memory-profiler
 numpy
 pandas
 plotly
 polars
+pyarrow
+pytest
 ruff
 scipy
 streamlit

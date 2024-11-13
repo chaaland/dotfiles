@@ -16,3 +16,4 @@ scikit-learn
 scipy
 streamlit
 sympy
+xlsx2csv

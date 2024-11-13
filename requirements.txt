@@ -11,5 +11,6 @@ polars
 pyarrow
 pytest
 ruff
+scikit-learn
 scipy
 streamlit

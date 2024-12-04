@@ -3,6 +3,7 @@ import json
 import os
 import re
 import sys
+import types
 
 import numpy as np
 import polars as pl

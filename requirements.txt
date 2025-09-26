@@ -3,6 +3,7 @@ fastexcel
 isort
 jupyter
 line-profiler
+marimo
 matplotlib
 memory-profiler
 numpy
